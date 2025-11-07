@@ -1,6 +1,6 @@
 # Workshop: Reversing a (not-so-) Simple Rust Loader - Ringzer0 COUNTERMEASURE 2025
 
-Materials for the workshop ["Reversing a (not-so-) Simple Rust Loader" at Ringzer0 COUNTERMEASURE](https://ringzer0.training/countermeasure25-workshop-reversing-a-not-so-simple-rust-loader/), conducted by Cindy Xiao on 2025-11-07 in Ottawa, Canada.
+Materials for the workshop [Reversing a (not-so-) Simple Rust Loader at Ringzer0 COUNTERMEASURE](https://ringzer0.training/countermeasure25-workshop-reversing-a-not-so-simple-rust-loader/), conducted by Cindy Xiao on 2025-11-07 in Ottawa, Canada.
 
 ## Pre-workshop prep
 
