@@ -10,5 +10,6 @@ Materials for the workshop ["Reversing a (not-so-) Simple Rust Loader" at Ringze
  
 ## Materials
 
-- Slides: Not yet public. These will be made available shortly before the workshop.
-- Original article with analysis of the same sample, for a written supplement: https://cxiao.net/posts/2025-08-17-not-so-simple-rust-loader/
+- Slides: PDF slides are available in [`slides`/](slides/).
+- Binary Ninja Database: A Binary Ninja Database with full annotations for the sample is available in [`bndbs/`](bndbs/2f2b93d37d67b80b4faaf25bebe4e3cbaf7aca35328aeb66da6a1a9b44316f5b-workshop-handout.bndb.zip)
+- Original article with analysis of the same sample, for a written supplement: [cxiao.net - Reversing a (not-so-) Simple Rust Loader - 2025-08-17](https://cxiao.net/posts/2025-08-17-not-so-simple-rust-loader/)
